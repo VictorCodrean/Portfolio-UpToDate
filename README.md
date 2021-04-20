@@ -13,7 +13,7 @@
 - [Screeenshots](#Pictures)
 
 ## Description
-    Updated Portfolio page that includes projects I worked on
+   Updated Portfolio page that includes projects I worked on
 ## About
 * Consistent Navbar from Boostrap for each page.
     *  On each page contain links to Home/About, Contact, Resume, Social Medias and Portfolio page.
