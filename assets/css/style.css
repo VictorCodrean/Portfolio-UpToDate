@@ -37,6 +37,13 @@ body {
     font-size: smaller;
 }
 
+.info-header {
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+
 a:hover{
     text-decoration: none;
 }
